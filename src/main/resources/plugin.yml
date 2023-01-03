@@ -1,0 +1,4 @@
+name: vanix-engine
+version: '${version}'
+author: 'luizgcl'
+main: com.vanix.core.infra.bukkit.BukkitMain
